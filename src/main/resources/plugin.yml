@@ -1,0 +1,6 @@
+name: JointDamage
+version: ${project.version}
+main: yt.ppg.jointdamage.Core
+api-version: 1.16
+authors: [ Wising, Lymed, Electro, Bonzaii, Enderlew ]
+website: ppg.yt
